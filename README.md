@@ -10,6 +10,11 @@ Soy un desarrollador fullstack con una fuerte especialización en backend. Mi ob
 - **Bases de Datos:** PostgreSQL, MongoDB
 - **Cloud:** Cloudinary
 
+## 📫 Contacto
+
+- **Correo Electrónico:** matiasramirezesc@gmail.com
+- **LinkedIn:** [matias-ramirez](https://www.linkedin.com/in/mat%C3%ADas-ramirez-3b1251270/) 
+
 ¡No dudes en contactarme si tienes alguna pregunta o proyecto interesante en el que trabajar juntos!
 <!--
 **MatiasRamirez1/MatiasRamirez1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
