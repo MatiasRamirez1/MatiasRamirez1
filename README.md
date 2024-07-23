@@ -1,14 +1,14 @@
-👋 Hola, soy Mati!
+#👋 Hola, soy Mati!
  
 
 Soy un desarrollador fullstack con una fuerte especialización en backend. Mi objetivo es crear aplicaciones robustas, escalables y eficientes que proporcionen experiencias excepcionales para los usuarios. Aquí te dejo un poco más sobre mí:
 
-🛠️ Tecnologías y Herramientas
-Lenguajes: JavaScript, TypeScript, HTML, CSS
-Frontend: React, Redux
-Backend: Node.js, Express, Nest.js
-Bases de Datos: PostgreSQL, MongoDB
-Cloud: Cloudinary
+##🛠️ Tecnologías y Herramientas
+- **Lenguajes:** JavaScript, TypeScript, HTML, CSS
+- **Frontend:** React, Redux
+- **Backend:** Node.js, Express, Nest.js
+- **Bases de Datos:** PostgreSQL, MongoDB
+- **Cloud:** Cloudinary
 
 ¡No dudes en contactarme si tienes alguna pregunta o proyecto interesante en el que trabajar juntos!
 <!--
