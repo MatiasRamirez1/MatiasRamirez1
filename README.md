@@ -13,7 +13,7 @@ Soy un desarrollador fullstack con una fuerte especialización en backend. Mi ob
 ## 📫 Contacto
 
 - **Correo Electrónico:** matiasramirezesc@gmail.com
-- **LinkedIn:** [matias-ramirez](https://www.linkedin.com/in/mat%C3%ADas-ramirez-3b1251270/) 
+- **LinkedIn:** [in/matías-ramirez-3b1251270/](https://www.linkedin.com/in/mat%C3%ADas-ramirez-3b1251270/) 
 
 ¡No dudes en contactarme si tienes alguna pregunta o proyecto interesante en el que trabajar juntos!
 <!--
